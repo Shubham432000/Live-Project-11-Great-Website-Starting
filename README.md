@@ -3,8 +3,8 @@
 ## Hey there, I am Shubham
 
 #### I have build a template of HTML and CSS Project using my core CSS skill
-
-> My Live Deployed Website Link [Website](https://zingy-kringle-a06629.netlify.app)  
+#### It took me 12 hours to do the project
+> My Live Deployed Website Link [Website](https://luxury-lily-3b62a2.netlify.app)  
 
 ![download (11)](https://user-images.githubusercontent.com/101961231/182020606-4333d215-0026-4862-a81d-500ea956b0ab.png)
 
